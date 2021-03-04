@@ -1,0 +1,89 @@
+
+Jena Competition/example_sample_submission.csv
+Jena Competition/example_test.csv
+Jena Competition/features.csv
+Jena Competition/train.csv
+Outliers/ALOI.arff
+Outliers/kaggle.json
+Outliers/Waveform_withoutdupl_v10.arff
+Regression/.ipynb_checkpoints/EDA-checkpoint.ipynb
+Regression/.ipynb_checkpoints/EDA-Copy1-checkpoint.ipynb
+Regression/EDA-Copy1.ipynb
+Regression/EDA.ipynb
+Outliers/.ipynb_checkpoints/Outliers-checkpoint.ipynb
+Outliers/06.Quiz_wo_answers.doc
+Outliers/07.Quiz_without_answers.docx
+Outliers/08.Quiz_wo_answers.pdf
+Outliers/.ipynb_checkpoints/Outliers-checkpoint.ipynb
+Outliers/.ipynb_checkpoints/Outliers-checkpoint.ipynb
+TimeSeries/.ipynb_checkpoints/TimeSeries-checkpoint.ipynb
+TimeSeries/1_1/.ipynb_checkpoints/06a_LAB_Pandas_TimeSeries-checkpoint.ipynb
+TimeSeries/1_1/06a_LAB_Pandas_TimeSeries.ipynb
+TimeSeries/1_1/colorsetup.py
+TimeSeries/1_1/Sample - Superstore.xls
+TimeSeries/1_2/.ipynb_checkpoints/06b_LAB_Decomposition-checkpoint.ipynb
+TimeSeries/1_2/06b_LAB_Decomposition.ipynb
+TimeSeries/1_2/dataset_A.npy
+TimeSeries/1_2/dataset_B.npy
+TimeSeries/2_1/.ipynb_checkpoints/06c_DEMO_Stationarity-checkpoint.ipynb
+TimeSeries/2_1/06c_DEMO_Stationarity.ipynb
+TimeSeries/2_1/dataset_SNS_1.npy
+TimeSeries/2_1/dataset_SNS_2.npy
+TimeSeries/2_2/.ipynb_checkpoints/06d_DEMO_Smoothing-checkpoint.ipynb
+TimeSeries/2_2/06d_DEMO_Smoothing.ipynb
+TimeSeries/2_2/smooth_1.npy
+TimeSeries/2_2/smooth_2.npy
+TimeSeries/3_1/.ipynb_checkpoints/06e_DEMO_ARMA-checkpoint.ipynb
+TimeSeries/3_1/06e_DEMO_ARMA.ipynb
+TimeSeries/3_1/auto_1.csv
+TimeSeries/3_1/auto_1.npy
+TimeSeries/3_1/auto_2.csv
+TimeSeries/3_1/auto_2.npy
+TimeSeries/3_2/.ipynb_checkpoints/06f_DEMO_SARIMA_Prophet-checkpoint.ipynb
+TimeSeries/3_2/06f_DEMO_SARIMA_Prophet.ipynb
+TimeSeries/3_2/co2-ppm-mauna-loa-19651980.csv
+TimeSeries/3_2/diagnostics_3_0.png
+TimeSeries/3_2/FiveCitiesPM/Beijing.csv
+TimeSeries/3_2/FiveCitiesPM/Chengdu.csv
+TimeSeries/3_2/FiveCitiesPM/Guangzhou.csv
+TimeSeries/3_2/FiveCitiesPM/Shanghai.csv
+TimeSeries/3_2/FiveCitiesPM/Shenyang.csv
+TimeSeries/3_2/mean-monthly-temperature-1907-19.csv
+TimeSeries/Electric_Production.csv
+TimeSeries/occupancy_data/datatest.txt
+TimeSeries/occupancy_data/datatest2.txt
+TimeSeries/occupancy_data/datatraining.txt
+
+.ipynb_checkpoints
+Neural Network/ru2_combined_400ks_96/vocab/lookups.bin
+Neural Network/.vector_cache/wiki.simple.vec.pt
+*.vec
+*.pt
+Neural Network/ru2_combined_400ks_96/ner/moves
+Neural Network/ru2_combined_400ks_96/accuracy.txt
+Neural Network/ru2_combined_400ks_96/meta.json
+Neural Network/ru2_combined_400ks_96/ner/cfg
+Neural Network/ru2_combined_400ks_96/ner/model
+Neural Network/ru2_combined_400ks_96/parser/cfg
+Neural Network/ru2_combined_400ks_96/parser/model
+Neural Network/ru2_combined_400ks_96/parser/moves
+Neural Network/ru2_combined_400ks_96/quality-ner.txt
+Neural Network/ru2_combined_400ks_96/quality.txt
+Neural Network/ru2_combined_400ks_96/tagger/cfg
+Neural Network/ru2_combined_400ks_96/tagger/model
+Neural Network/ru2_combined_400ks_96/tagger/tag_map
+Neural Network/ru2_combined_400ks_96/tokenizer
+Neural Network/ru2_combined_400ks_96/vocab/key2row
+Neural Network/ru2_combined_400ks_96/vocab/strings.json
+Neural Network/ru2_combined_400ks_96/vocab/vectors
+Neural Network/test.csv
+Neural Network/train.csv
+Neural Network/valid.csv
+*.csv
+.ipynb_checkpoints
+Classification/reuters
+__pycache__
+janestreet
+ru2_combined_400ks_96
+Regression/README.md
+Clusterization/corpus.txt
